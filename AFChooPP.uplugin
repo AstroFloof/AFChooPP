@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "AFChooPP",
+	"FriendlyName": "Choo++",
 	"Description": "choo",
 	"Category": "Other",
 	"CreatedBy": "AstroFloof",
@@ -13,5 +13,12 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false
+	"Installed": false,
+	"Plugins": [
+	{
+	  "Name": "SML",
+	  "SemVersion": "^3.1.1",
+	  "Enabled": true
+	}
+	]
 }
